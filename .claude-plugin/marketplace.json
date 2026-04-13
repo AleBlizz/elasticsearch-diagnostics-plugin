@@ -10,7 +10,11 @@
       "name": "elasticsearch-diagnostics",
       "description": "Comprehensive Elasticsearch cluster diagnostics — runs the same checks as Elastic's official support-diagnostics tool directly from Claude Code.",
       "version": "1.0.0",
-      "source": "."
+      "source": {
+        "type": "github",
+        "repo": "AleBlizz/elasticsearch-diagnostics-plugin",
+        "ref": "main"
+      }
     }
   ]
 }
