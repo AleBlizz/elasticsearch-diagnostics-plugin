@@ -1,6 +1,6 @@
 {
   "name": "elasticsearch-diagnostics-skills",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Comprehensive Elasticsearch cluster diagnostics — runs the same checks as Elastic's official support-diagnostics tool directly from Claude Code.",
   "author": {
     "name": "Alessandro Brofferio",
