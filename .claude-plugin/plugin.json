@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Comprehensive Elasticsearch cluster diagnostics — runs the same checks as Elastic's official support-diagnostics tool directly from Claude Code.",
   "author": {
-    "name": "Alessandro Benedetti",
+    "name": "Alessandro Brofferio",
     "url": "https://github.com/your-github-username"
   },
   "homepage": "https://github.com/your-org/elasticsearch-diagnostics-plugin",
