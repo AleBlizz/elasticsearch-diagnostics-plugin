@@ -1,0 +1,16 @@
+{
+  "name": "elasticsearch-diagnostics",
+  "owner": {
+    "name": "AleBlizz",
+    "url": "https://github.com/AleBlizz"
+  },
+  "homepage": "https://github.com/AleBlizz/elasticsearch-diagnostics-plugin",
+  "plugins": [
+    {
+      "name": "elasticsearch-diagnostics",
+      "description": "Comprehensive Elasticsearch cluster diagnostics — runs the same checks as Elastic's official support-diagnostics tool directly from Claude Code.",
+      "version": "1.0.0",
+      "source": "."
+    }
+  ]
+}
