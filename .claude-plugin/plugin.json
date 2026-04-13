@@ -1,13 +1,13 @@
 {
-  "name": "elasticsearch-diagnostics",
+  "name": "elasticsearch-diagnostics-skills",
   "version": "1.0.1",
   "description": "Comprehensive Elasticsearch cluster diagnostics — runs the same checks as Elastic's official support-diagnostics tool directly from Claude Code.",
   "author": {
     "name": "Alessandro Brofferio",
-    "url": "https://github.com/your-github-username"
+    "url": "https://github.com/AleBlizz"
   },
-  "homepage": "https://github.com/your-org/elasticsearch-diagnostics-plugin",
-  "repository": "https://github.com/your-org/elasticsearch-diagnostics-plugin",
+  "homepage": "https://github.com/AleBlizz/elasticsearch-diagnostics-plugin",
+  "repository": "https://github.com/AleBlizz/elasticsearch-diagnostics-plugin",
   "license": "Apache-2.0",
   "keywords": ["elasticsearch", "elastic", "diagnostics", "cluster", "shard", "ILM", "monitoring"]
 }
