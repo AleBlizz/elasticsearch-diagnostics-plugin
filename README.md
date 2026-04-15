@@ -45,7 +45,7 @@ You'll be asked for your cluster URL and API key (base64-encoded, from Kibana â†
 
 ## Thresholds used
 
-Based on Elastic consulting best practices:
+Based on Elastic best practices:
 
 | Metric | Warning | Critical |
 |--------|---------|----------|
